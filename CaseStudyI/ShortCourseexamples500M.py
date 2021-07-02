@@ -13,7 +13,7 @@ from multiprocessing import Pool
 from datetime import datetime
 from functools import partial
 
-df = pd.read_csv('/lustre/home/amzaina65/ShortCourse/sampledata1M.csv')
+df = pd.read_csv('/lustre/home/amzaina65/ShortCourse/sampledata500M.csv')
 #count = df.count()
 #print("Count of data records", count)
 
